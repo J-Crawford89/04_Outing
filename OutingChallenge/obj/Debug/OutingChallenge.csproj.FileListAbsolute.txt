@@ -1,0 +1,6 @@
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\04_Outing\OutingChallenge\bin\Debug\OutingChallenge.exe.config
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\04_Outing\OutingChallenge\bin\Debug\OutingChallenge.exe
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\04_Outing\OutingChallenge\bin\Debug\OutingChallenge.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\04_Outing\OutingChallenge\obj\Debug\OutingChallenge.csprojAssemblyReference.cache
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\04_Outing\OutingChallenge\obj\Debug\OutingChallenge.exe
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\04_Outing\OutingChallenge\obj\Debug\OutingChallenge.pdb
